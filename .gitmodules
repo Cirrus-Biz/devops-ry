@@ -2,13 +2,10 @@
 	path = terraform-ec2
 	url = https://github.com/JR-Yabut/terraform-ry.git
 
-# [submodule "kubernetes-local"]
-# 	path = kubernetes-local
-# 	url = https://github.com/JR-Yabut/kubernetes-ry.git
-
-# [submodule "docker"]
-#     path = docker
-#     url = https://github.com/JR-Yabut/docker-ry.git
 [submodule "kubernetes-local"]
 	path = kubernetes-local
 	url = https://github.com/JR-Yabut/kubernetes-ry.git
+
+[submodule "docker"]
+	path = docker
+	url = https://github.com/JR-Yabut/docker-ry.git
