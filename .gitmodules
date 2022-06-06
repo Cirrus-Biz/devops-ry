@@ -1,0 +1,3 @@
+[submodule "terraform-ec2"]
+	path = terraform-ec2
+	url = https://github.com/JR-Yabut/terraform-ry.git
